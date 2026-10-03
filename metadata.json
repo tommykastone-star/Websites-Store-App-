@@ -1,0 +1,8 @@
+{
+  "name": "Websites Store App",
+  "description": "Progressive Web App store and website launcher. Discover, install, and run PWAs and web apps with an integrated in-app browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
